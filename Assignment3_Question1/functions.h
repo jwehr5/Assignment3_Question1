@@ -1,3 +1,9 @@
+/*
+Jayden Wehr
+functions.h
+
+*/
+
 #pragma once
 #ifndef FUNCTIONS_H
 #define FUNCTIONS_H
